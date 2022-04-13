@@ -50,7 +50,7 @@ a.nav-link.active {
 
 .aboutImg::before {    
     content: "";
-    background-image: url('/homeImg.jpg');
+    background-image: url('homeImg.jpg');
     background-size: cover;
     height: 600px;
     background-repeat: no-repeat;
@@ -108,71 +108,71 @@ a.nav-link.active {
 /* tech stack css */
 
 #html{
-    background-image: url(/skills/html.png);
+    background-image: url(skills/html.png);
 
 }
 #css{
-    background-image: url(/skills/css.png);
+    background-image: url(skills/css.png);
 
 }
 #javascript{
-    background-image: url(/skills/javascript.png);
+    background-image: url(skills/javascript.png);
    
 }
 #c{
-    background-image: url(/skills/c.png);
+    background-image: url(skills/c.png);
  
 }
 #cpp{
-    background-image: url(/skills/cpp.png);
+    background-image: url(skills/cpp.png);
 
 }
 #nodejs{
-    background-image: url(/skills/nodejs.png);
+    background-image: url(skills/nodejs.png);
 
 }
 #git{
-    background-image: url(/skills/git.png);
+    background-image: url(skills/git.png);
 
 }
 #java{
-    background-image: url(/skills/java.png);
+    background-image: url(skills/java.png);
   
 }
 #python{
-    background-image: url(/skills/python.png);
+    background-image: url(skills/python.png);
     
 }
 #vsstudio{
-    background-image: url(/skills/vsstudio.png);
+    background-image: url(skills/vsstudio.png);
     
 }
 #pycharm{
-    background-image: url(/skills/pycharm.png);
+    background-image: url(skills/pycharm.png);
     
 }
 #wordpress{
-    background-image: url(/skills/wordpress.png);
+    background-image: url(skills/wordpress.png);
     
 }
 #opencv{
-    background-image: url(/skills/opencv.png);
+    background-image: url(skills/opencv.png);
     
 }
 #bootstrap{
-    background-image: url(/skills/bootstrap.png);
+    background-image: url(skills/bootstrap.png);
     
 }
 #ds{
-    background-image: url(/skills/ds.png);
+    background-image: url(skills/ds.png);
     
 }
 #csharp{
-    background-image: url(/skills/csharp.png);
+    background-image: url(skills/csharp.png);
     
 }
 #unity{
-    background-image: url(/skills/unity.png);
+    background-image: url(skills/unity.png);
     
 }
 
